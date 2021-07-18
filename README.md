@@ -1,6 +1,6 @@
 # RocketShoes
 
-![Imagem inicial da aplicação](https://github.com/gugavillar/trilha-react-desafio-03/blob/main/assets/inicio.png)
+![Imagem inicial da aplicação](/assets/inicio.png)
 
 ## Tecnologias
 
