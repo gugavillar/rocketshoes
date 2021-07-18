@@ -2,6 +2,8 @@
 
 ![Imagem inicial da aplicação](/assets/inicio.png)
 
+![Imagem do carrinho da aplicação](/assets/carrinho.png)
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -38,9 +40,22 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-O Rocketshoes é um projeto de uma loja. Nesse projeto o usuário é capaz de adicionar os itens escolhidos no carrinho.
-Os itens escolhidos para adicionar no carrinho são verificados no banco de dados para saber se existe estoque disponível.
-Foi desenvolvido um hook do React para gerenciar todo o componente carrinho.
-Os dados adicionados ao carrinho ficam armazenados na localstorage para que o usuário mesmo que recarregue a página não perca a suas escolhas.
+O Rocketshoes é um projeto de uma loja.
+
+Funcionalidades do projeto:
+
+-  Adicionar itens no carrinho, mas verificando se o item que deseja adicionar tem no estoque;
+-  Verificar se o item já está adicionado e se estiver apenas aumentar a quantidade;
+-  Excluir um item do carrinho;
+-  Aumentar ou diminuir a quantidade de um item no carrinho verificando sua existência no estoque;
+-  Salvar os itens adicionados no localstorage usando a localstorageAPI.
+
+Esse projeto tem como objetivo consolidar conhecimentos sobre:
+
+-  Criação e uso de hooks no React;
+-  uso de da ContextAPI do React;
+-  uso de estados do React;
+-  uso da função reduce e map do javascript;
+-  A exibição de erros com o uso da react-toastify
 
 Esse foi um projeto realizado dentro do Ignite da Rocketseat.
