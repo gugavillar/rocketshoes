@@ -53,9 +53,10 @@ Funcionalidades do projeto:
 Esse projeto tem como objetivo consolidar conhecimentos sobre:
 
 -  Criação e uso de hooks no React;
--  uso de da ContextAPI do React;
--  uso de estados do React;
--  uso da função reduce e map do javascript;
--  A exibição de erros com o uso da react-toastify
+-  Uso da ContextAPI do React;
+-  Uso de estados do React;
+-  Uso da função reduce e map do javascript;
+-  A exibição de erros com o uso da react-toastify;
+-  Uso da localstorageAPI.
 
 Esse foi um projeto realizado dentro do Ignite da Rocketseat.
