@@ -19,8 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```
-$ git clone https://github.com/gugavillar/trilha-react-desafio-03
-$ cd trilha-react-desafio-03
+$ git clone https://github.com/gugavillar/rocketshoes
+$ cd rocketshoes
 ```
 
 Para iniciá-lo, siga os passos abaixo:
